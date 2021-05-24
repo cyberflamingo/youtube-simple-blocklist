@@ -34,5 +34,6 @@ www.youtube.com##.ytp-right-controls > button.ytp-button:nth-of-type(1)
 www.youtube.com##.ytd-video-secondary-info-renderer.style-scope > tp-yt-paper-button.ytd-subscribe-button-renderer.style-scope
 www.youtube.com###secondary
 www.youtube.com##.ytp-button.ytp-large-play-button
+www.youtube.com##ytd-item-section-renderer.ytd-section-list-renderer.style-scope:nth-of-type(1)
 /watch_autoplayrenderer.js$script,domain=www.youtube.com
 /endscreen.js$script,domain=www.youtube.com
