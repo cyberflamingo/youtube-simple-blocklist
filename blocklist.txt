@@ -22,10 +22,12 @@ www.youtube.com##.size-default.style-text.ytd-subscription-notification-toggle-b
 www.youtube.com##div.ytd-topbar-logo-renderer.style-scope > .ytd-topbar-logo-renderer.style-scope
 www.youtube.com###guide-inner-content
 www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
+www.youtube.com###voice-search-button > .size-default.style-default.ytd-masthead.style-scope > .ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-default.ytd-button-renderer.style-scope
 www.youtube.com##.ytd-c4-tabbed-header-renderer.style-scope > tp-yt-paper-button.ytd-subscribe-button-renderer.style-scope
 www.youtube.com##.ytd-c4-tabbed-header-renderer.style-scope.container.yt-simple-endpoint
 www.youtube.com###guide-content
 www.youtube.com###guide-button
+www.youtube.com###end > .ytd-masthead.style-scope
 www.youtube.com##.ytp-autonav-toggle-button
 www.youtube.com##.ytp-autonav-toggle-button-container
 www.youtube.com##.ytp-right-controls > button.ytp-button:nth-of-type(1)
