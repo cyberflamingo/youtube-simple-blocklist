@@ -27,7 +27,6 @@ www.youtube.com##.ytd-c4-tabbed-header-renderer.style-scope > tp-yt-paper-button
 www.youtube.com##.ytd-c4-tabbed-header-renderer.style-scope.container.yt-simple-endpoint
 www.youtube.com###guide-content
 www.youtube.com###guide-button
-www.youtube.com###end > .ytd-masthead.style-scope
 www.youtube.com##.ytp-autonav-toggle-button
 www.youtube.com##.ytp-autonav-toggle-button-container
 www.youtube.com##.ytp-right-controls > button.ytp-button:nth-of-type(1)
