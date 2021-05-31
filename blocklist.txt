@@ -43,3 +43,4 @@ www.youtube.com##ytd-topbar-menu-button-renderer.style-default.ytd-masthead.styl
 www.youtube.com##.ytd-button-renderer.style-scope.yt-simple-endpoint > .size-small.style-suggestive.ytd-button-renderer.style-scope
 www.youtube.com##.size-default.style-destructive.ytd-video-secondary-info-renderer.style-scope > .ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-destructive.ytd-button-renderer.style-scope
 www.youtube.com##.sbdd_a.gstl_50
+www.youtube.com##.ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-destructive.ytd-button-renderer.style-scope
