@@ -45,3 +45,6 @@ www.youtube.com##.size-default.style-destructive.ytd-video-secondary-info-render
 www.youtube.com##.sbdd_a.gstl_50
 www.youtube.com##.ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-destructive.ytd-button-renderer.style-scope
 www.youtube.com##ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope > .ytd-watch-next-secondary-results-renderer.style-scope
+www.youtube.com###menu-container
+www.youtube.com##.ytd-video-view-count-renderer.style-scope.view-count
+www.youtube.com###dot
