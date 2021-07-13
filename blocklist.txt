@@ -48,3 +48,4 @@ www.youtube.com##ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style
 www.youtube.com###menu-container
 www.youtube.com##.ytd-video-view-count-renderer.style-scope.view-count
 www.youtube.com###dot
+www.youtube.com###top-row
