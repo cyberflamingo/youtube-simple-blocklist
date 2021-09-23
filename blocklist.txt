@@ -1,51 +1,37 @@
-! A less annoying and addicting youtube
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(1)
-www.youtube.com###search-icon-legacy
-www.youtube.com###sub-menu > .ytd-section-list-renderer.style-scope
-www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
-www.youtube.com##.ytd-menu-renderer.style-scope.dropdown-trigger
-www.youtube.com##.ytp-button.playerButton
-www.youtube.com##ytd-button-renderer.size-default.style-default.force-icon-button.ytd-menu-renderer.style-scope > .ytd-button-renderer.style-scope.yt-simple-endpoint
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
-www.youtube.com##.notification-button-style-type-default.ytd-notification-topbar-button-renderer.style-scope
-www.youtube.com##.style-default.ytd-topbar-menu-button-renderer.style-scope
-www.youtube.com##ytd-guide-collapsible-section-entry-renderer.ytd-guide-section-renderer.style-scope
-www.youtube.com###footer > .ytd-guide-renderer.style-scope
-www.youtube.com###copyright
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
-www.youtube.com###right
-www.youtube.com###footer
-www.youtube.com##h3.ytd-guide-section-renderer.style-scope > .ytd-guide-section-renderer.style-scope
-www.youtube.com##.ytd-two-column-browse-results-renderer.style-scope > .ytd-rich-grid-renderer.style-scope
-www.youtube.com##.ytd-comments.style-scope
-www.youtube.com##.size-default.style-text.ytd-subscription-notification-toggle-button-renderer.style-scope
-www.youtube.com##div.ytd-topbar-logo-renderer.style-scope > .ytd-topbar-logo-renderer.style-scope
-www.youtube.com###guide-inner-content
-www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
-www.youtube.com###voice-search-button > .size-default.style-default.ytd-masthead.style-scope > .ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-default.ytd-button-renderer.style-scope
-www.youtube.com##.ytd-c4-tabbed-header-renderer.style-scope > tp-yt-paper-button.ytd-subscribe-button-renderer.style-scope
-www.youtube.com##.ytd-c4-tabbed-header-renderer.style-scope.container.yt-simple-endpoint
-www.youtube.com###guide-content
-www.youtube.com###guide-button
-www.youtube.com###end > .ytd-masthead.style-scope
-www.youtube.com##.ytp-autonav-toggle-button
-www.youtube.com##.ytp-autonav-toggle-button-container
-www.youtube.com##.ytp-right-controls > button.ytp-button:nth-of-type(1)
-www.youtube.com##.ytd-video-secondary-info-renderer.style-scope > tp-yt-paper-button.ytd-subscribe-button-renderer.style-scope
-www.youtube.com###secondary
-www.youtube.com##.ytp-button.ytp-large-play-button
+! Title: Youtube Simple Blocklist
+! Description: A less annoying and addicting youtube
+! Homepage: https://github.com/mrf-dot/youtube-simple-blocklist
+! Licence: https://github.com/mrf-dot/youtube-simple-blocklist/blob/main/LICENSE
+!
+! GitHub issues: https://github.com/mrf-dot/youtube-simple-blocklist/issues
+! GitHub pull requests: https://github.com/mrf-dot/youtube-simple-blocklist/pulls
+
+! Last imported: 2021-09-23
+www.youtube.com###action-buttons
+www.youtube.com###c4-player > .ytp-chrome-top > .ytp-chrome-top-buttons
 www.youtube.com###chat
-www.youtube.com##ytd-item-section-renderer.ytd-watch-next-secondary-results-renderer.style-scope > .ytd-item-section-renderer.style-scope
-www.youtube.com###content > .yt-related-chip-cloud-renderer.style-scope
-/watch_autoplayrenderer.js$script,domain=www.youtube.com
-/endscreen.js$script,domain=www.youtube.com
-www.youtube.com##ytd-topbar-menu-button-renderer.style-default.ytd-masthead.style-scope:nth-of-type(1)
-www.youtube.com##.ytd-button-renderer.style-scope.yt-simple-endpoint > .size-small.style-suggestive.ytd-button-renderer.style-scope
-www.youtube.com##.size-default.style-destructive.ytd-video-secondary-info-renderer.style-scope > .ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-destructive.ytd-button-renderer.style-scope
-www.youtube.com##.sbdd_a.gstl_50
-www.youtube.com##.ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-destructive.ytd-button-renderer.style-scope
-www.youtube.com##ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope > .ytd-watch-next-secondary-results-renderer.style-scope
-www.youtube.com###menu-container
-www.youtube.com##.ytd-video-view-count-renderer.style-scope.view-count
-www.youtube.com###dot
-www.youtube.com###top-row
+www.youtube.com###end
+www.youtube.com###guide
+www.youtube.com###guide-button
+www.youtube.com###header > .ytd-item-section-renderer.style-scope
+www.youtube.com###header > .ytd-rich-grid-renderer.style-scope
+www.youtube.com###hover-overlays
+www.youtube.com###menu
+www.youtube.com###playlist-actions
+www.youtube.com###sentiment > .ytd-sentiment-bar-renderer.style-scope
+www.youtube.com##.size-default.style-destructive.ytd-channel-renderer.style-scope
+www.youtube.com##.size-default.style-destructive.ytd-video-secondary-info-renderer.style-scope
+www.youtube.com###sponsor-button
+www.youtube.com###subscribe-button
+www.youtube.com###voice-search-button
+www.youtube.com##ytd-button-renderer.size-default.style-default.force-icon-button.ytd-menu-renderer.style-scope:nth-of-type(2)
+www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(2)
+www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope
+www.youtube.com##ytd-toggle-button-renderer.style-text.force-icon-button.ytd-menu-renderer.style-scope:nth-of-type(1)
+www.youtube.com##ytd-toggle-button-renderer.style-text.force-icon-button.ytd-menu-renderer.style-scope:nth-of-type(2)
+www.youtube.com##.ytd-video-primary-info-renderer.style-scope > .ytd-menu-renderer.style-scope.dropdown-trigger
+www.youtube.com##.ytd-video-secondary-info-renderer.style-scope.sticky
+www.youtube.com##.ytp-autonav-toggle-button-container
+www.youtube.com##.ytp-button.ytp-miniplayer-button
